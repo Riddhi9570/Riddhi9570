@@ -1,9 +1,7 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;This+is+Riddhi...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I+am+Riddhi...;Welcome+to+my+github+profile!;&size=25)](https://git.io/typing-svg)
 
+---
+## 👩‍💻 About me
 - 🔭 I am currently doing Bachelors in Computer Science and Engineering.
 - 🌱 I am currently learning python and machine learning.
 - 👯 I’m looking to collaborate on web development.
