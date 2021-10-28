@@ -1,14 +1,16 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I+am+Riddhi...;Welcome+to+my+github+profile!;&size=25)](https://git.io/typing-svg)
 
 ---
-## 👩‍💻 About me
+
+## 👩‍💻 About me 
+
 - 🔭 I am currently doing Bachelors in Computer Science and Engineering.
 - 🌱 I am currently learning python and machine learning.
 - 👯 I’m looking to collaborate on web development.
 - 💻 I love writing codes and learn anything about it.
 - 🎧 I love listening songs.
 - 😄 Pronouns: She/her.
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/riddhi-bhagat-1a19201b3/) 
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/riddhi-bhagat-1a19201b3/)
 
 ---
 
@@ -19,6 +21,8 @@
 ---
 
 ## &#x1f4c8; My GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=Riddhi9570&color=red)
 
 [![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=riddhi9570&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
