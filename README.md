@@ -8,7 +8,7 @@
 - 🌱 I am currently learning python and machine learning.
 - 👯 I’m looking to collaborate on web development.
 - 💻 I love writing codes and learn anything about it.
-- 🎧 I love listening songs.
+- 🎧 I love listening to songs.
 - 😄 Pronouns: She/her.
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/riddhi-bhagat-1a19201b3/)
 
@@ -30,4 +30,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riddhi9570&theme=monokai&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Riddhi Bhagat's github activity graph](https://activity-graph.herokuapp.com/graph?username=riddhi9570&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Riddhi Bhagat's github activity graph](https://activity-graph.herokuapp.com/graph?username=riddhi9570&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
