@@ -49,4 +49,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riddhi9570&theme=monokai&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- [![Riddhi Bhagat's github activity graph](https://activity-graph.herokuapp.com/graph?username=riddhi9570&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Riddhi Bhagat's github activity graph](https://activity-graph.herokuapp.com/graph?username=riddhi9570&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
