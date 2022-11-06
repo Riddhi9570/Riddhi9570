@@ -37,6 +37,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/>
 
+
+---
+
+## 🏆 My Badges
+
+[![@riddhi9570's Holopin board](https://holopin.me/riddhi9570)](https://holopin.io/@riddhi9570)
+
 ---
 
 ## &#x1f4c8; My GitHub Stats
@@ -49,4 +56,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riddhi9570&theme=monokai&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 [![Riddhi Bhagat's github activity graph](https://activity-graph.herokuapp.com/graph?username=riddhi9570&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
